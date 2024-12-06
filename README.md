@@ -61,16 +61,6 @@ You can check out a live demo of the application [here](https://projects.souravl
 
 ---
 
-### Task List with Priorities
-![Task List](https://projects.souravlife.com/todo/)
-*(Add a relevant screenshot of your app interface.)*
-
-### Adding a New Task
-![Add Task](https://projects.souravlife.com/todo/)
-*(Add a relevant screenshot showcasing the task addition feature.)*
-
----
-
 ## 🧩 Project Structure
 
 - plaintext
